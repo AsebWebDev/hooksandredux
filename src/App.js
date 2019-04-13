@@ -12,7 +12,7 @@ class App extends Component {
        <h1>Mir</h1>
        <NormalCounter />
        <HooksCounter />
-       <NormalLife />
+       {/* <NormalLife /> */}
        <HooksLife />
       </div>
     );
